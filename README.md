@@ -1,4 +1,4 @@
-# Convert From .heic to jpeg using python pillow and pillow_heif.
+# Convert From .heic to jpg using python pillow and pillow_heif.
 ## Install requirenments:
 ### pip install pillow 
 ### pip install pillow pillow_heif
