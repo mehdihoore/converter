@@ -28,5 +28,5 @@ def convert_folder_heic_to_jpg(folder_path):
 
 
 # Example usage:
-folder_path = r"F:\Pics\New folder"
+folder_path = r"C:\Pics"
 convert_folder_heic_to_jpg(folder_path)
